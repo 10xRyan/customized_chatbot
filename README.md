@@ -1,4 +1,4 @@
-# customized_chatbot
+# customized chatbot
 
 - Implementation 1: idle to be disconnected
    
